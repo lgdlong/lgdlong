@@ -2,7 +2,7 @@
 
 
 ## ☕ About Me  
-- My full name is **Nguyen Quang Vinh** (You can call me **Arisa** for shot.)
+- My full name is **Phung Luu Hoang Long**
 - My major is **Software Engineering**
 - I am currently studying at FPT University
 ---
