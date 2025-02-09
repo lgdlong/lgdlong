@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AA5F7&width=435&lines=Hi+There!+👋:I'm+Long;I+am+a+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1AA5F7&width=435&lines=Hi!+I'm+Long.;I+am+a+Software+Developer)](https://git.io/typing-svg)
 
 
 ## ☕ About Me  
