@@ -5,7 +5,7 @@
 - My full name is **Phung Luu Hoang Long**
 - My major is **Software Engineering**
 - I am currently studying at FPT University
-- Phone: 0776506822
+- Phone: +84776506822
 - Email: phunglh.long@gmail.com
 ---
 
