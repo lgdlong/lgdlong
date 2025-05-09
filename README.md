@@ -2,11 +2,12 @@
 
 
 ## ☕ About Me  
-- My full name is **Phung Luu Hoang Long**
-- My major is **Software Engineering**
-- I am currently studying at FPT University
-- Phone: +84776506822
-- Email: phunglh.long@gmail.com
+
+- I'm **Phung Luu Hoang Long**  
+- Majoring in **Software Engineering**  
+- Studying at **FPT University**  
+- 📞 +84 776 506 822  
+- 📧 [phunglh.long@gmail.com](mailto:phunglh.long@gmail.com)
 ---
 
 ## 🌐 Visitor Counter  
