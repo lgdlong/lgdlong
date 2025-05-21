@@ -20,5 +20,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lgdlong&show_icons=true&theme=github_dark" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lgdlong&show_icons=true&locale=en&theme=github_dark&layout=compact&hide=jupyter%20notebook" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=lgdlong&theme=darkhub" alt="GitHub Trophies" />
 </div>
